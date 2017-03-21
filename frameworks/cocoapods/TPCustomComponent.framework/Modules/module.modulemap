@@ -1,0 +1,6 @@
+framework module TPCustomComponent {
+  umbrella header "TPCustomComponent.h"
+
+  export *
+  module * { export * }
+}
