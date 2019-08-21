@@ -1,2 +1,2 @@
 # TPCustomComponent
-$\sum_{a}^{b}$
+\lim_{x\rightarrow 0}f(x)
