@@ -1,2 +1,2 @@
 # TPCustomComponent
-$\sum_{a}^{b}$
+\sum_{a}^{b}
